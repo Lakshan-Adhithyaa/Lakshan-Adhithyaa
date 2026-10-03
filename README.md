@@ -2,7 +2,6 @@
 <h3 align="center">I'm a B.Tech student focused on Artificial Intelligence and Machine Learning, with a strong interest in full-stack development and emerging technologies. I enjoy turning ideas into working applications, experimenting with AI systems, and building projects through hackathons and independent development.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshan-adhithyaa" alt="lakshan-adhithyaa" /></a> </p>
 
 - 🔭 I’m currently working on **MozhiSense — a Tanglish-focused cyberbullying detection and awareness platform. Currently researching the problem, dataset requirements, and possible approaches.**
 
