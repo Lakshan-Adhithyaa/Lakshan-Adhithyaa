@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshan Adhithyaa S</h1>
+https://readme-typing-svg.demolab.com/demo/?color=28CEF7&lines=AI%2FML+Engineer+;Quantum+Computing;Full-Stack+Developer+;Building+AI-Powered+Applications
 <h3 align="center">I'm a B.Tech student focused on Artificial Intelligence and Machine Learning, with a strong interest in full-stack development and emerging technologies. I enjoy turning ideas into working applications, experimenting with AI systems, and building projects through hackathons and independent development.</h3>
-
-
 
 - 🔭 I’m currently working on **MozhiSense — a Tanglish-focused cyberbullying detection and awareness platform. Currently researching the problem, dataset requirements, and possible approaches.**
 
