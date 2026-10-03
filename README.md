@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshan Adhithyaa S</h1>
 <h3 align="center">I'm a B.Tech student focused on Artificial Intelligence and Machine Learning, with a strong interest in full-stack development and emerging technologies. I enjoy turning ideas into working applications, experimenting with AI systems, and building projects through hackathons and independent development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-adhithyaa&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-adhithyaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshan-adhithyaa" alt="lakshan-adhithyaa" /></a> </p>
 
