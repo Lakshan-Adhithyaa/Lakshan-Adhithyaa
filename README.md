@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lakshan Adhithyaa S</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28CEF7&width=435&lines=AI%2FML+Engineer+Quantum+Computing;Full-Stack+Developer+Building+AI-Powered+Applications" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28CEF7&width=600&lines=AI%2FML+Engineer+%26+Quantum+Computing+Enthusiast;Full-Stack+Developer+%26+AI+Application+Builder" alt="Typing SVG" />
+</a>
 <h3 align="center">I'm a B.Tech student focused on Artificial Intelligence and Machine Learning, with a strong interest in full-stack development and emerging technologies. I enjoy turning ideas into working applications, experimenting with AI systems, and building projects through hackathons and independent development.</h3>
 
 - 🔭 I’m currently working on **MozhiSense — a Tanglish-focused cyberbullying detection and awareness platform. Currently researching the problem, dataset requirements, and possible approaches.**
